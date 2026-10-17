@@ -1,3 +1,5 @@
+.gitignore
+
 .idea/
 hellbender.iml
 *.ipr
