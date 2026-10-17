@@ -47,3 +47,9 @@ funcotator_tmp
 #Test generated dot files
 test*.dot
 .vscode/
+
+#./gradlew test generated file
+altToTrim.g.vcf
+altToTrim.g.vcf.idx
+gatkStreamingProcessJournal--*.txt
+shiftback.chain
